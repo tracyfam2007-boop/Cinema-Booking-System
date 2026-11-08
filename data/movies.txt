@@ -1,0 +1,14 @@
+M1,Blades Of The Guardians,Action,125,C:\Users\TRACY\Pictures\blades of the guardians.jpeg,Now Available
+M2,Joker,Psychological Thriller,134,C:\Users\TRACY\Pictures\Joker.jpg,Now Available
+M3,Detective Conan: Black_Iron_Submarine,Detective,145,C:\Users\TRACY\Pictures\Detective_Conan_Black_Iron_Submarine_Poster.jpg,Now Available
+M4,Kung Fu Panda 4,Cartoon,120,C:\Users\TRACY\Pictures\Kungfu panda.jpeg,Coming Soon
+M5,Mercy,Thriller,100,C:\Users\TRACY\Pictures\mercy.jpg,Now Available
+M6,Minion & Monster,Cartoon,120,C:\Users\TRACY\Pictures\Minion & Monster.jpeg,Coming Soon
+M7,Scare Out,Spy,168,C:\Users\TRACY\Pictures\scare out.jpg,Now Available
+M8,Sengkolo,Horror,127,C:\Users\TRACY\Pictures\Sengkolo.jpg,Now Available
+M9,Spider Man: No Way Home,Action,148,C:\Users\TRACY\Pictures\Spiderman .jpeg,Coming Soon
+M10,Sunshine Women's Choir,Music,135,C:\Users\TRACY\Pictures\sunshine girls' choir.jpeg,Now Available
+M11,The Shadow Edge,Action,145,C:\Users\TRACY\Pictures\The Shadows Egde.jpeg,Coming Soon
+M12,The Super Mario Bros,Adventure,110,C:\Users\TRACY\Pictures\The Super Mario Bros.jpeg,Coming Soon
+M13,Zootopia_2,Animal Animation,115,C:\Users\TRACY\Pictures\zootopia2.jpg,Now Available
+M14,Goat,Cartoon,120,C:\Users\TRACY\Pictures\Goat.jpg,Now Available

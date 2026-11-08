@@ -1,0 +1,9 @@
+B001|Catherine|Sengkolo|3:00 AM|4D|8|E5,E4|ACTIVE|Debit Card|61.60
+B002|Bella|Zootopia_2|3:00 PM|IMAX|3|H4,H5|ACTIVE|TnG|62.08
+B003|Jenna|Sunshine Women's Choir|5:00 PM|2D|6|C4,C5|CANCELED|Credit Card|34.30
+B004|Hazel|Blades Of The Guardians|1:00 PM|4D|7|F4,F5|CANCELED|TnG|48.0
+B005|Hazel|Detective Conan: Black_Iron_Submarine|2:30 PM|2D|4|E3,E4,E5|ACTIVE|Online Banking|61.76
+B006|Saman|Mercy|2:45 PM|4D|9|H8|ACTIVE|Credit Card|30.0
+B007|Lucy|Sunshine Women's Choir|5:00 PM|2D|6|C3,C2|ACTIVE|TnG|34.3
+B008|Jieyu|Goat|2:00 PM|2D|5|D4,D5|ACTIVE|Debit Card|50.00
+B009|Hazel|Goat|2:00 PM|2D|5|E4,E5|CANCELED|TnG|39.4

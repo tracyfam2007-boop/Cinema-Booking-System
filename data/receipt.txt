@@ -1,0 +1,46 @@
+=========== CINEMA RECEIPT ===========
+Booking ID: B001
+Name: Catherine
+
+Movie: Sengkolo
+Showtime: 3:00 AM
+Hall Type: 4D
+Hall Number: 8
+Seat: E5,E4
+
+Status: ACTIVE
+Payment Method: Debit Card
+Price: RM 61.60
+=====================================
+----------------------------------------
+
+=========== CINEMA RECEIPT ===========
+Booking ID: B002
+Name: Bella
+
+Movie: Zootopia_2
+Showtime: 3:00 PM
+Hall Type: IMAX
+Hall Number: 3
+Seat: H4,H5
+
+Status: ACTIVE
+Payment Method: TnG
+Price: RM 62.08
+=====================================
+----------------------------------------=========== CINEMA RECEIPT ===========
+Booking ID: B008
+Name: Jieyu
+
+Movie: Goat
+Showtime: 2:00 PM
+Hall Type: 2D
+Hall Number: 5
+Seat: D4,D5
+
+Status: ACTIVE
+Payment Method: Debit Card
+Price: RM 50.00
+=====================================
+----------------------------------------
+
